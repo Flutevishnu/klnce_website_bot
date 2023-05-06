@@ -1,4 +1,4 @@
-# klnce_chatbot-
+# klnce_chatbot-app
 chatbot for KLNCE 
 
 
